@@ -22,5 +22,4 @@ CD /D "%~dp0"
 pip install pytesseract
 pip install requests
 pip install Pillow
-start ./Tesseract64bit.exe
 exit
