@@ -22,4 +22,6 @@ CD /D "%~dp0"
 pip install pytesseract
 pip install requests
 pip install Pillow
+pip install opencv-python
+pip install numpy
 exit
